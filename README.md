@@ -129,11 +129,5 @@ MIT License
 
 ---
 
-## Author
 
-**Your Name**
-AI Enthusiast | Developer | Designer
-\[LinkedIn] • \[GitHub] • \[Website]
-
----
 
