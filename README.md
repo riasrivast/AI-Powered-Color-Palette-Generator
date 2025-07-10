@@ -1,6 +1,6 @@
 ---
 
-# 🎨 AI-Powered Color Palette Generator
+# AI-Powered Color Palette Generator
 
 ## Overview
 
@@ -10,11 +10,11 @@ The AI-Powered Color Palette Generator is a Python-based tool that uses machine 
 
 ## Features
 
-* ✅ Generate color palettes based on input keywords (e.g., *sunset*, *forest*, *retro*)
-* ✅ Uses AI models to map semantic meanings to color embeddings
-* ✅ Outputs palettes as RGB hex codes and visual previews
-* ✅ Includes clustering and dimensionality reduction techniques
-* ✅ Customizable palette size and visualization
+* Generate color palettes based on input keywords (e.g., *sunset*, *forest*, *retro*)
+* Uses AI models to map semantic meanings to color embeddings
+* Outputs palettes as RGB hex codes and visual previews
+* Includes clustering and dimensionality reduction techniques
+* Customizable palette size and visualization
 
 ---
 
